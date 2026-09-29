@@ -1,0 +1,21 @@
+# Visual Studio / MSBuild output
+obj/
+bin/
+dist/
+*.pdb
+*.ipdb
+*.iobj
+*.obj
+*.tlog/
+*.lastbuildstate
+*.recipe
+*.Build.CppClean.log
+
+# Runtime diagnostics and user-local configuration
+ProfileCam20.log
+ProfileCam20.crash.log
+ProfileCam20.pre-fix.log
+settings.ini
+
+# Legacy binary kept locally for reference
+ProfileCam.exe
